@@ -1,0 +1,2 @@
+# demoir.ga
+Tugas UTS
